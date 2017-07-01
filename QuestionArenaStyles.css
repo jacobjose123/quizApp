@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+.mainBlock
+{
+	width :700px;
+	height : 500px ;
+	margin-left:250px;
+	margin-right:250px;
+	
+	 padding-left:50px;
+	padding-right:50px ;
+	
+	border : 1px solid red; 
+	
+}
+
+.mainBlock h2
+{
+	padding :20px 230px;
+}
+
+.mainBlock .questionField
+{
+	width : 500px;
+	height: 50px;
+	/* margin:0px 50px; */
+	resize : none;
+}
+
+.mainBlock .options
+{
+	margin : 5px 0px;
+	width:250px;
+}
+
+.mainBlock .btnSubmit
+{
+	margin-left:400px;
+}

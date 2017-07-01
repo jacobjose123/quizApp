@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+.mainBlock
+{
+	width :700px;
+	height : 500px ;
+	margin-left:250px;
+	margin-right:250px;
+	
+	/* padding-left:50px;
+	padding-right:50px */;
+	
+	border : 1px solid red; 
+	font-color: green;
+}
+
+.mainBlock h2
+{
+	/* text-align : center; */
+	/* color: red; */
+	margin: 50px 230px;
+}
+
+.mainBlock .startButton
+{
+	margin : 0px 250px;
+	/* color:red; */
+}
+
+.mainBlock .score
+{
+	margin:0px 200px;
+}
+
